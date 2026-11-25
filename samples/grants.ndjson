@@ -1,0 +1,4 @@
+{"grant":"g-shared","household":"hh8","beneficiary":null,"category":null,"amount":7000,"from":"2026-11-01T00:00:00+08:00","until":"2026-12-01T00:00:00+08:00"}
+{"grant":"g-food","household":"hh8","beneficiary":"res-a","category":"fresh","amount":3500,"from":"2026-11-01T00:00:00+08:00","until":"2026-12-01T00:00:00+08:00"}
+{"grant":"g-other","household":"hh8","beneficiary":"res-b","category":"fresh","amount":4200,"from":"2026-11-01T00:00:00+08:00","until":"2026-12-01T00:00:00+08:00"}
+{"grant":"g-dec","household":"hh8","beneficiary":null,"category":null,"amount":7000,"from":"2026-12-01T00:00:00+08:00","until":"2027-01-01T00:00:00+08:00"}

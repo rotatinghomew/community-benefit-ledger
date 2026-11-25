@@ -1,0 +1,2 @@
+{"cart":"c-a","household":"hh8","beneficiary":"res-a","customer":"help-a","merchant":"my","items":[{"line":"a1","category":"fresh","amount":3100},{"line":"a2","category":"care","amount":2400}]}
+{"cart":"c-b","household":"hh8","beneficiary":"res-b","customer":"help-a","merchant":"mx","items":[{"line":"b1","category":"fresh","amount":1800},{"line":"b2","category":"care","amount":2300}]}
